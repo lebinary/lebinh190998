@@ -4,4 +4,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jesuislebeauu/)](https://www.instagram.com/jesuislebeauu/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lebinh190998@gmail.com)](mailto:lebinh190998@gmail.com)
 
-Welcome to my profile! I'm a software engineer, an Reactjs and Threejs enthusiast [writer](https://lebinhporfolio.netlify.app/), bioinformatics researcher and part-time soccer player, guitarist. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/binhle19/)!
+Welcome to my profile! I'm a software engineer, an [Reactjs](https://secure-badlands-38958.herokuapp.com/) and [Threejs](https://lebinhporfolio.netlify.app/) enthusiast, bioinformatics researcher and part-time soccer player, guitarist. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/binhle19/)!
