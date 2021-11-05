@@ -1,4 +1,7 @@
 # Hi I'm Binh 👋
+
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-binhle19-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/binhle19/)](https://www.linkedin.com/in/binhle19/)
 [![Website Badge](https://img.shields.io/badge/-lebinhporfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lebinhporfolio.netlify.app/)](https://lebinhporfolio.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-@jesuislebeauu-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jesuislebeauu/)](https://www.instagram.com/jesuislebeauu/)
@@ -13,7 +16,6 @@ Welcome to my profile! I'm a software engineer, an [Reactjs](https://secure-badl
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
 <br />
 
 ---
