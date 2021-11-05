@@ -9,7 +9,7 @@
 
 Welcome to my profile! I'm a software engineer, an [Reactjs](https://secure-badlands-38958.herokuapp.com/) and [Threejs](https://lebinhporfolio.netlify.app/) enthusiast, bioinformatics researcher and part-time soccer player, guitarist. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/binhle19/)!
 
-### Tech stacks:
+### Tech stack:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
