@@ -1,4 +1,4 @@
-# Wassup I'm Binh 👋
+# Wassup fellow nerds 👋
 
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230" />
 
@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jesuislebeauu-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jesuislebeauu/)](https://www.instagram.com/jesuislebeauu/)
 [![Gmail Badge](https://img.shields.io/badge/-lebinh190998-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lebinh190998@gmail.com)](mailto:lebinh190998@gmail.com)
 
-Welcome to my profile! I'm a software engineer, an [Reactjs](https://secure-badlands-38958.herokuapp.com/) and [Threejs](https://lebinhporfolio.netlify.app/) enthusiast, bioinformatics researcher and part-time soccer player, guitarist. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/binhle19/)!
+Welcome to my profile! I code, play football, play guitar and explore new things. Let's [connect](https://www.linkedin.com/in/binhle19/)!
 
 ### Tech stack:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
