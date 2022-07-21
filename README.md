@@ -24,6 +24,6 @@ Welcome to my profile! I'm a software engineer, an [Reactjs](https://secure-badl
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=johnrocker991190998&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31b232goahz27xcmgenhl2eqfbcy)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31b232goahz27xcmgenhl2eqfbcy)
 <br/>
 ---
