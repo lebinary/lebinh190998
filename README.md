@@ -24,6 +24,6 @@ Welcome to my profile! I code, play football, play guitar and explore new things
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31b232goahz27xcmgenhl2eqfbcy)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&redirect=true)
 <br/>
 ---
