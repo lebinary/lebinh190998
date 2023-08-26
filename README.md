@@ -19,11 +19,3 @@ I sometimes write code. Let's [connect](https://www.linkedin.com/in/binhle19/)!
 <br />
 
 ---
-
-
-
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&redirect=true)
-<br/>
----
