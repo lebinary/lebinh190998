@@ -8,5 +8,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-lebinh190998-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lebinh190998@gmail.com)](mailto:lebinh190998@gmail.com)
 
 I sometimes write code. Let's [connect](https://www.linkedin.com/in/binhle19/)!
-
----
